@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Home",
+    "passports": "Passports",
+    "destinations": "Destinations",
+    "rankings": "Rankings",
+    "guide": "Visa Guides"
+  },
+  "home": {
+    "title": "Check Visa Requirements Instantly",
+    "subtitle": "Find out if you need a visa for your next trip. Search by passport and destination.",
+    "passportLabel": "Your Passport",
+    "destinationLabel": "Destination Country",
+    "checkButton": "Check Requirements",
+    "selectPassport": "Select passport...",
+    "selectDestination": "Select destination...",
+    "popularPassports": "Popular Passports",
+    "topDestinations": "Top Destinations"
+  },
+  "result": {
+    "visaFree": "Visa Free",
+    "visaOnArrival": "Visa on Arrival",
+    "eVisa": "eVisa Required",
+    "visaRequired": "Visa Required",
+    "stayDuration": "Stay Duration",
+    "days": "days",
+    "processingTime": "Processing Time",
+    "fee": "Fee",
+    "free": "Free",
+    "notes": "Notes",
+    "applyNow": "Apply for Visa"
+  },
+  "rankings": {
+    "title": "Passport Power Index 2025",
+    "subtitle": "Ranked by number of visa-free destinations",
+    "rank": "Rank",
+    "country": "Country",
+    "visaFreeAccess": "Visa-Free Access",
+    "countries": "countries"
+  },
+  "passports": {
+    "title": "Passport Visa Requirements",
+    "subtitle": "Select a passport to see visa requirements for all destinations",
+    "visaFreeCount": "Visa-Free Destinations",
+    "viewDetails": "View Details"
+  },
+  "destinations": {
+    "title": "Destination Countries",
+    "subtitle": "Select a destination to see which passports need visas",
+    "visaFreePassports": "Visa-Free Passports",
+    "viewDetails": "View Details"
+  },
+  "footer": {
+    "tagline": "Check visa requirements for any passport and destination in seconds.",
+    "disclaimer": "Visa requirements change frequently. Always verify with official embassy websites before travel.",
+    "visitorsToday": "Visitors today",
+    "totalVisitors": "Total visitors",
+    "allRightsReserved": "All rights reserved."
+  },
+  "guide": {
+    "tourist": "Tourist Visa Guide",
+    "business": "Business Visa Guide",
+    "student": "Student Visa Guide",
+    "workingHoliday": "Working Holiday Visa Guide"
+  }
+}

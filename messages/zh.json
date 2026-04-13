@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Home",
+    "passports": "Passports",
+    "destinations": "Destinations",
+    "rankings": "Rankings",
+    "guide": "Guide"
+  },
+  "home": {
+    "title": "即时查看签证要求",
+    "subtitle": "",
+    "passportLabel": "Passport",
+    "destinationLabel": "Destination",
+    "checkButton": "Check",
+    "selectPassport": "Select...",
+    "selectDestination": "Select...",
+    "popularPassports": "Popular",
+    "topDestinations": "Top Destinations"
+  },
+  "result": {
+    "visaFree": "免签",
+    "visaOnArrival": "落地签",
+    "eVisa": "需要电子签证",
+    "visaRequired": "需要签证",
+    "stayDuration": "Stay",
+    "days": "days",
+    "processingTime": "Processing",
+    "fee": "Fee",
+    "free": "Free",
+    "notes": "Notes",
+    "applyNow": "Apply"
+  },
+  "rankings": {
+    "title": "Passport Index 2025",
+    "subtitle": "",
+    "rank": "Rank",
+    "country": "Country",
+    "visaFreeAccess": "Visa-Free",
+    "countries": "countries"
+  },
+  "passports": {
+    "title": "Passports",
+    "subtitle": "",
+    "visaFreeCount": "Visa-Free",
+    "viewDetails": "Details"
+  },
+  "destinations": {
+    "title": "Destinations",
+    "subtitle": "",
+    "visaFreePassports": "Visa-Free Passports",
+    "viewDetails": "Details"
+  },
+  "footer": {
+    "tagline": "",
+    "disclaimer": "签证要求经常变化。出行前请务必通过官方大使馆核实。",
+    "visitorsToday": "Today",
+    "totalVisitors": "Total",
+    "allRightsReserved": "All rights reserved."
+  },
+  "guide": {
+    "tourist": "Tourist",
+    "business": "Business",
+    "student": "Student",
+    "workingHoliday": "Working Holiday"
+  }
+}

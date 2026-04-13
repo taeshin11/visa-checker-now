@@ -1,0 +1,8162 @@
+{
+  "US": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 6 months."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required for US citizens."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "UK": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "CA": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 6 months."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "AU": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 6 months."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "DE": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 10,
+      "notes": "UK ETA required."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "FR": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 10,
+      "notes": "UK ETA required."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "JP": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 6 months. UK ETA may be required."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 45 days."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required for Japanese citizens."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "KR": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 6 months."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "SG": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 6 months."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "NZ": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 6 months."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen Area."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "SE": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 10,
+      "notes": "UK ETA required."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "NO": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 10,
+      "notes": "UK ETA required."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "DK": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 10,
+      "notes": "UK ETA required."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "NL": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 10,
+      "notes": "UK ETA required."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "CH": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 10,
+      "notes": "UK ETA required."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "AT": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 10,
+      "notes": "UK ETA required."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "BE": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 10,
+      "notes": "UK ETA required."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "FI": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 10,
+      "notes": "UK ETA required."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "IE": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 10,
+      "notes": "UK ETA required."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "ES": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 10,
+      "notes": "UK ETA required."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "IT": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 10,
+      "notes": "UK ETA required."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "PT": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required. Apply before travel at esta.cbp.dhs.gov."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 10,
+      "notes": "UK ETA required."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 20,
+      "notes": "ETA required. Apply at eta.immi.gov.au."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival, extendable once."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days. eVisa also available."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required. Apply at indianvisaonline.gov.in."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under pilot program (select nationalities)."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required at evisa.gov.tr."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "EU/Schengen freedom of movement. No visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "No visa required."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 183 days."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival or eVisa available."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required at evisa.go.ke."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    }
+  },
+  "BR": {
+    "US": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 21,
+      "fee": 185,
+      "notes": "B1/B2 visitor visa required."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 6 months."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 5,
+      "fee": 20,
+      "notes": "eVisa may be required."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free or eVisa."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required."
+    },
+    "CN": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 50,
+      "notes": "Visa required."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    }
+  },
+  "MX": {
+    "US": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 21,
+      "notes": "ESTA required."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 6 months."
+    },
+    "CA": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 7,
+      "notes": "eTA required."
+    },
+    "AU": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 5,
+      "fee": 20,
+      "notes": "eVisa may be required."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free or eVisa."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required."
+    },
+    "CN": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 50,
+      "notes": "Visa required."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    }
+  },
+  "IN": {
+    "US": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 21,
+      "fee": 185,
+      "notes": "B1/B2 visitor visa required."
+    },
+    "UK": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 115,
+      "notes": "Standard Visitor Visa required."
+    },
+    "CA": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 14,
+      "fee": 100,
+      "notes": "Visitor visa required."
+    },
+    "AU": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 5,
+      "fee": 20,
+      "notes": "eVisa required."
+    },
+    "DE": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "FR": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "JP": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 50,
+      "notes": "Visa required."
+    },
+    "KR": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 50,
+      "notes": "Visa required."
+    },
+    "SG": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 7,
+      "fee": 30,
+      "notes": "Visa required."
+    },
+    "NZ": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 17,
+      "notes": "NZeTA required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa on arrival for 30 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free 45 days or eVisa."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "IN": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "CN": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 50,
+      "notes": "Visa required."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for Indian passport holders with UAE residence/visa."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 0,
+      "notes": "eVisa or visa on arrival."
+    },
+    "GR": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "IT": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "ES": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for Indian passport holders."
+    },
+    "BR": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 60,
+      "notes": "Visa required."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "PE": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 60,
+      "notes": "Visa required."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required."
+    },
+    "ZA": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 40,
+      "notes": "Visa required. Apply at South African embassy."
+    }
+  },
+  "CN": {
+    "US": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 21,
+      "fee": 185,
+      "notes": "B1/B2 visitor visa required."
+    },
+    "UK": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 115,
+      "notes": "Standard Visitor Visa required."
+    },
+    "CA": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 14,
+      "fee": 100,
+      "notes": "Visitor visa required."
+    },
+    "AU": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 145,
+      "notes": "Visitor visa required."
+    },
+    "DE": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "FR": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days under current pilot program."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 167,
+      "notes": "Visitor visa required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival."
+    },
+    "VN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "eVisa required."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 14,
+      "fee": 75,
+      "notes": "Visa required."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 0,
+      "notes": "eVisa or visa on arrival."
+    },
+    "GR": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "IT": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "ES": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required."
+    },
+    "ZA": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 40,
+      "notes": "Visa required."
+    }
+  },
+  "RU": {
+    "US": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 21,
+      "fee": 185,
+      "notes": "Visa required."
+    },
+    "UK": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 115,
+      "notes": "Visa required."
+    },
+    "CA": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 14,
+      "fee": 100,
+      "notes": "Visitor visa required."
+    },
+    "AU": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 14,
+      "fee": 145,
+      "notes": "Visitor visa required."
+    },
+    "DE": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "FR": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "JP": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 7,
+      "fee": 50,
+      "notes": "Visa required."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 60,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 60 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 167,
+      "notes": "Visitor visa required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 15,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 15 days."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "eVisa required."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free under bilateral agreement."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "GR": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "IT": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "ES": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    }
+  },
+  "AE": {
+    "US": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 14,
+      "fee": 185,
+      "notes": "Visitor visa required."
+    },
+    "UK": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for UAE passport holders."
+    },
+    "CA": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 14,
+      "fee": 100,
+      "notes": "Visitor visa required."
+    },
+    "AU": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 145,
+      "notes": "Visitor visa required."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "JP": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "KR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 167,
+      "notes": "Visitor visa required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free or eVisa."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required."
+    },
+    "CN": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    }
+  },
+  "SA": {
+    "US": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 14,
+      "fee": 185,
+      "notes": "Visitor visa required."
+    },
+    "UK": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 115,
+      "notes": "Standard Visitor Visa required."
+    },
+    "CA": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 14,
+      "fee": 100,
+      "notes": "Visitor visa required."
+    },
+    "AU": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 145,
+      "notes": "Visitor visa required."
+    },
+    "DE": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "FR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "JP": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 50,
+      "notes": "Visa required."
+    },
+    "KR": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 50,
+      "notes": "Visa required."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 167,
+      "notes": "Visitor visa required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free or eVisa."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required."
+    },
+    "CN": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 50,
+      "notes": "Visa required."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required."
+    },
+    "GR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "IT": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "ES": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days in Schengen."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    }
+  },
+  "ZA": {
+    "US": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 14,
+      "fee": 185,
+      "notes": "Visitor visa required."
+    },
+    "UK": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 115,
+      "notes": "Standard Visitor Visa required."
+    },
+    "CA": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 14,
+      "fee": 100,
+      "notes": "Visitor visa required."
+    },
+    "AU": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 145,
+      "notes": "Visitor visa required."
+    },
+    "DE": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "FR": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "JP": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 50,
+      "notes": "Visa required."
+    },
+    "KR": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 50,
+      "notes": "Visa required."
+    },
+    "SG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "NZ": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 167,
+      "notes": "Visitor visa required."
+    },
+    "TH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "ID": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 35,
+      "notes": "Visa on arrival."
+    },
+    "VN": {
+      "requiresVisa": false,
+      "stayDays": 45,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "Visa-free or eVisa."
+    },
+    "PH": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "MY": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 90 days."
+    },
+    "IN": {
+      "requiresVisa": true,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 25,
+      "notes": "e-Visa required."
+    },
+    "CN": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 10,
+      "fee": 50,
+      "notes": "Visa required."
+    },
+    "AE": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free for 30 days."
+    },
+    "TR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 1,
+      "fee": 51,
+      "notes": "eVisa required."
+    },
+    "GR": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "IT": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "ES": {
+      "requiresVisa": true,
+      "stayDays": 0,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 15,
+      "fee": 80,
+      "notes": "Schengen visa required."
+    },
+    "MX": {
+      "requiresVisa": false,
+      "stayDays": 180,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "BR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "AR": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "PE": {
+      "requiresVisa": false,
+      "stayDays": 183,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "EG": {
+      "requiresVisa": false,
+      "stayDays": 30,
+      "visaOnArrival": true,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 25,
+      "notes": "Visa on arrival."
+    },
+    "MA": {
+      "requiresVisa": false,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "Visa-free."
+    },
+    "KE": {
+      "requiresVisa": true,
+      "stayDays": 90,
+      "visaOnArrival": false,
+      "eVisa": true,
+      "processingDays": 3,
+      "fee": 50,
+      "notes": "eVisa required."
+    },
+    "ZA": {
+      "requiresVisa": false,
+      "stayDays": 365,
+      "visaOnArrival": false,
+      "eVisa": false,
+      "processingDays": 0,
+      "fee": 0,
+      "notes": "You are a citizen of this country."
+    }
+  }
+}

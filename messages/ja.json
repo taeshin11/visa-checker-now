@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Home",
+    "passports": "Passports",
+    "destinations": "Destinations",
+    "rankings": "Rankings",
+    "guide": "Guide"
+  },
+  "home": {
+    "title": "ビザ要件を即座に確認",
+    "subtitle": "",
+    "passportLabel": "Passport",
+    "destinationLabel": "Destination",
+    "checkButton": "Check",
+    "selectPassport": "Select...",
+    "selectDestination": "Select...",
+    "popularPassports": "Popular",
+    "topDestinations": "Top Destinations"
+  },
+  "result": {
+    "visaFree": "ビザ不要",
+    "visaOnArrival": "到着時ビザ",
+    "eVisa": "電子ビザ必要",
+    "visaRequired": "ビザ必要",
+    "stayDuration": "Stay",
+    "days": "days",
+    "processingTime": "Processing",
+    "fee": "Fee",
+    "free": "Free",
+    "notes": "Notes",
+    "applyNow": "Apply"
+  },
+  "rankings": {
+    "title": "Passport Index 2025",
+    "subtitle": "",
+    "rank": "Rank",
+    "country": "Country",
+    "visaFreeAccess": "Visa-Free",
+    "countries": "countries"
+  },
+  "passports": {
+    "title": "Passports",
+    "subtitle": "",
+    "visaFreeCount": "Visa-Free",
+    "viewDetails": "Details"
+  },
+  "destinations": {
+    "title": "Destinations",
+    "subtitle": "",
+    "visaFreePassports": "Visa-Free Passports",
+    "viewDetails": "Details"
+  },
+  "footer": {
+    "tagline": "",
+    "disclaimer": "ビザ要件は頻繁に変わります。旅行前に大使館で必ず確認してください。",
+    "visitorsToday": "Today",
+    "totalVisitors": "Total",
+    "allRightsReserved": "All rights reserved."
+  },
+  "guide": {
+    "tourist": "Tourist",
+    "business": "Business",
+    "student": "Student",
+    "workingHoliday": "Working Holiday"
+  }
+}

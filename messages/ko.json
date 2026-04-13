@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Home",
+    "passports": "Passports",
+    "destinations": "Destinations",
+    "rankings": "Rankings",
+    "guide": "Guide"
+  },
+  "home": {
+    "title": "비자 요건 즉시 확인",
+    "subtitle": "",
+    "passportLabel": "Passport",
+    "destinationLabel": "Destination",
+    "checkButton": "Check",
+    "selectPassport": "Select...",
+    "selectDestination": "Select...",
+    "popularPassports": "Popular",
+    "topDestinations": "Top Destinations"
+  },
+  "result": {
+    "visaFree": "비자 면제",
+    "visaOnArrival": "도착 비자",
+    "eVisa": "전자 비자 필요",
+    "visaRequired": "비자 필요",
+    "stayDuration": "Stay",
+    "days": "days",
+    "processingTime": "Processing",
+    "fee": "Fee",
+    "free": "Free",
+    "notes": "Notes",
+    "applyNow": "Apply"
+  },
+  "rankings": {
+    "title": "Passport Index 2025",
+    "subtitle": "",
+    "rank": "Rank",
+    "country": "Country",
+    "visaFreeAccess": "Visa-Free",
+    "countries": "countries"
+  },
+  "passports": {
+    "title": "Passports",
+    "subtitle": "",
+    "visaFreeCount": "Visa-Free",
+    "viewDetails": "Details"
+  },
+  "destinations": {
+    "title": "Destinations",
+    "subtitle": "",
+    "visaFreePassports": "Visa-Free Passports",
+    "viewDetails": "Details"
+  },
+  "footer": {
+    "tagline": "",
+    "disclaimer": "비자 요건은 자주 변경됩니다. 공식 대사관에서 항상 확인하세요.",
+    "visitorsToday": "Today",
+    "totalVisitors": "Total",
+    "allRightsReserved": "All rights reserved."
+  },
+  "guide": {
+    "tourist": "Tourist",
+    "business": "Business",
+    "student": "Student",
+    "workingHoliday": "Working Holiday"
+  }
+}

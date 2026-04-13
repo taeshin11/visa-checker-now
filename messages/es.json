@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Home",
+    "passports": "Passports",
+    "destinations": "Destinations",
+    "rankings": "Rankings",
+    "guide": "Guide"
+  },
+  "home": {
+    "title": "Verifica Requisitos de Visa al Instante",
+    "subtitle": "",
+    "passportLabel": "Passport",
+    "destinationLabel": "Destination",
+    "checkButton": "Check",
+    "selectPassport": "Select...",
+    "selectDestination": "Select...",
+    "popularPassports": "Popular",
+    "topDestinations": "Top Destinations"
+  },
+  "result": {
+    "visaFree": "Sin Visa",
+    "visaOnArrival": "Visa a la Llegada",
+    "eVisa": "eVisa Requerida",
+    "visaRequired": "Visa Requerida",
+    "stayDuration": "Stay",
+    "days": "days",
+    "processingTime": "Processing",
+    "fee": "Fee",
+    "free": "Free",
+    "notes": "Notes",
+    "applyNow": "Apply"
+  },
+  "rankings": {
+    "title": "Passport Index 2025",
+    "subtitle": "",
+    "rank": "Rank",
+    "country": "Country",
+    "visaFreeAccess": "Visa-Free",
+    "countries": "countries"
+  },
+  "passports": {
+    "title": "Passports",
+    "subtitle": "",
+    "visaFreeCount": "Visa-Free",
+    "viewDetails": "Details"
+  },
+  "destinations": {
+    "title": "Destinations",
+    "subtitle": "",
+    "visaFreePassports": "Visa-Free Passports",
+    "viewDetails": "Details"
+  },
+  "footer": {
+    "tagline": "",
+    "disclaimer": "Los requisitos de visa cambian frecuentemente. Siempre verifica con las embajadas oficiales.",
+    "visitorsToday": "Today",
+    "totalVisitors": "Total",
+    "allRightsReserved": "All rights reserved."
+  },
+  "guide": {
+    "tourist": "Tourist",
+    "business": "Business",
+    "student": "Student",
+    "workingHoliday": "Working Holiday"
+  }
+}

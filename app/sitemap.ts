@@ -63,6 +63,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
     });
   }
 
+  // Content pages
+  const contentPages = ["about", "how-to-use", "privacy", "terms"];
+  for (const locale of LOCALES) {
+    for (const page of contentPages) {
+      urls.push({
+        url: `${BASE_URL}/${locale}/${page}`,
+        lastModified: new Date(),
+        changeFrequency: "monthly",
+        priority: 0.6,
+      });
+    }
+  }
+
   // Guide pages
   const guideTypes = ["tourist", "business", "student", "working-holiday"];
   for (const locale of LOCALES) {

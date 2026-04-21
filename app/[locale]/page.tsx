@@ -3,6 +3,9 @@ import PassportSelector from "@/components/PassportSelector";
 import CountryCard from "@/components/CountryCard";
 import { PASSPORT_CODES, DESTINATION_CODES } from "@/lib/data";
 
+import { AdsterraNativeBanner } from '@/components/ads/AdsterraNativeBanner';
+import { AdsterraDisplay } from '@/components/ads/AdsterraDisplay';
+
 interface Props {
   params: Promise<{ locale: string }>;
 }
@@ -134,6 +137,8 @@ export default async function HomePage({ params }: Props) {
           ))}
         </div>
       </section>
+      <AdsterraNativeBanner />
+      <AdsterraDisplay />
 
       {/* FAQ / Schema */}
       <script
